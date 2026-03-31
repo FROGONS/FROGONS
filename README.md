@@ -1,3 +1,3 @@
-# Olá, eu sou o FROGONS!
+<h1>Olá, eu sou o FROGONS!</h1>
 
-![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FROGONS&theme=vision-friendly-dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FROGONS&layout=compact&theme=vision-friendly-dark" />
